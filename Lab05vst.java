@@ -27,14 +27,15 @@ public class Lab05vst extends Applet {
         y2=640;
         y1+=5;}
 
-        for(int k = 0; k<=968; k+=14) {
-            g.drawLine(y1 - k, x1, y2, x2 - k);
-            y2+=5;
+
+
+        }
+
         }
 
 
 
 
-    }
-}
+
+
 
